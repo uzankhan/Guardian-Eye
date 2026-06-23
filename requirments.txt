@@ -1,0 +1,11 @@
+psutil
+wmi
+numpy
+scikit-learn
+pypiwin32
+pywin32
+scapy
+colorama
+cryptography
+pyyaml
+joblib
